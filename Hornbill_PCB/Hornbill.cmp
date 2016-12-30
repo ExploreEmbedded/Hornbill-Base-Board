@@ -1,0 +1,325 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 12/30/2016 2:13:06 PM
+
+BeginCmp
+TimeStamp = /58624905;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58651FE0;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5865267F;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58627597;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = ee:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /586277C1;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = ee:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /58627710;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = ee:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /58627824;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = ee:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /58627769;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = ee:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /58627882;
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = ee:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /58660A50;
+Reference = P1;
+ValeurCmp = CONN_01X19;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x19_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /586609BB;
+Reference = P2;
+ValeurCmp = CONN_01X19;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x19_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /58660729;
+Reference = P3;
+ValeurCmp = CONN_01X19;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x19_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5866044C;
+Reference = P4;
+ValeurCmp = CONN_01X19;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x19_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5866061C;
+Reference = P5;
+ValeurCmp = CONN_01X19;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x19_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /586606A2;
+Reference = P6;
+ValeurCmp = CONN_01X19;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x19_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5865F35B;
+Reference = P7;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /58627FE4;
+Reference = Q1;
+ValeurCmp = Q_NPN_BCE;
+IdModule  = ee:SOT_23;
+EndCmp
+
+BeginCmp
+TimeStamp = /58624B64;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58624C00;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5862893C;
+Reference = R3;
+ValeurCmp = 680r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58624AA5;
+Reference = R4;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58627DBE;
+Reference = R5;
+ValeurCmp = 47r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58627E1F;
+Reference = R6;
+ValeurCmp = 47r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58628161;
+Reference = R7;
+ValeurCmp = 0r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58622B93;
+Reference = R8;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58636841;
+Reference = R9;
+ValeurCmp = 0r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /586367BD;
+Reference = R10;
+ValeurCmp = 0r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /586366DC;
+Reference = R11;
+ValeurCmp = 0r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58635E8F;
+Reference = R12;
+ValeurCmp = 100r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58635E09;
+Reference = R13;
+ValeurCmp = 100r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58635805;
+Reference = R14;
+ValeurCmp = 150r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5864D1A9;
+Reference = R15;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5864D0FB;
+Reference = R16;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5864C015;
+Reference = R17;
+ValeurCmp = 1K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5864B0DF;
+Reference = R18;
+ValeurCmp = 33K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5864B358;
+Reference = R19;
+ValeurCmp = 33K;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58656B5A;
+Reference = R20;
+ValeurCmp = 0r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58667DDE;
+Reference = R21;
+ValeurCmp = 0r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /58622AD8;
+Reference = U1;
+ValeurCmp = SHT31_DIS;
+IdModule  = ee:SHT31_DIS;
+EndCmp
+
+BeginCmp
+TimeStamp = /58675D68;
+Reference = U2;
+ValeurCmp = SD_Crard;
+IdModule  = EE:Micro_SD;
+EndCmp
+
+BeginCmp
+TimeStamp = /58634DAC;
+Reference = U3;
+ValeurCmp = RGB_4pin;
+IdModule  = ee:RGB_SMD_4pin_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /58673811;
+Reference = U4;
+ValeurCmp = ESP32_Breakout1;
+IdModule  = ee:ESP32_Breakout;
+EndCmp
+
+BeginCmp
+TimeStamp = /58661318;
+Reference = U5;
+ValeurCmp = MountingHole;
+IdModule  = ee:Mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /586612BF;
+Reference = U6;
+ValeurCmp = MountingHole;
+IdModule  = ee:Mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /58661265;
+Reference = U7;
+ValeurCmp = MountingHole;
+IdModule  = ee:Mounting;
+EndCmp
+
+BeginCmp
+TimeStamp = /5866114D;
+Reference = U8;
+ValeurCmp = MountingHole;
+IdModule  = ee:Mounting;
+EndCmp
+
+EndListe
