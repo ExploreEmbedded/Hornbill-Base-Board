@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name EE)(type KiCad)(uri "H:\\PCB_Designes\\LPC1768 Stick1\\lib_new\\ExploreEmbedded.pretty-master")(options "")(descr ""))
-  (lib (name ee)(type KiCad)(uri "H:\\PCB_Designes\\LPC1768 Stick1\\lib_new\\EE.pretty")(options "")(descr ""))
+  (lib (name ee)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
+  (lib (name "nosuz lib")(type KiCad)(uri "C:\\Users\\exploreembedded\\Documents\\KIcad Library\\kicad-lib-master\\module.pretty")(options "")(descr ""))
+  (lib (name EElib)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
 )

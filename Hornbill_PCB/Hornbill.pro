@@ -1,4 +1,4 @@
-update=12/30/2016 3:37:49 PM
+update=31-Dec-16 12:42:52 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=80
 [eeschema]
 version=1
 LibDir=
@@ -72,3 +62,14 @@ LibName30=valves
 LibName31=H:/PCB_Designes/MCUs-Base-Board-DVB-15001/Hardware/MCU_BaseBoard-cache
 LibName32=H:/PCB_Designes/Explore M3 v0.3/ExploreM3-cache
 LibName33=H:/Github/Explore-M3-Hardware-Design-/Hardware Design Files/ExploreM3-cache
+LibName34=C:/Users/exploreembedded/Documents/KIcad Library/kicad-lib-master/nosuz
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=80
