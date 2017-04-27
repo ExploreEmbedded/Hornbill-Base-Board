@@ -3,4 +3,5 @@
   (lib (name ee)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
   (lib (name "nosuz lib")(type KiCad)(uri "C:\\Users\\exploreembedded\\Documents\\KIcad Library\\kicad-lib-master\\module.pretty")(options "")(descr ""))
   (lib (name EElib)(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty")(options "")(descr ""))
+  (lib (name "Hornbill proto logo")(type KiCad)(uri "C:\\KiCad\\share\\library\\EE library.pretty\\Hornbill logo.pretty")(options "")(descr ""))
 )
