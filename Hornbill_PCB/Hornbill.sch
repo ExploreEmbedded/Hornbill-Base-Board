@@ -29,8 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:MCU_BaseBoard-cache
-LIBS:ExploreM3-cache
+LIBS:nosuz
 LIBS:Hornbill-cache
 EELAYER 25 0
 EELAYER END
@@ -1529,4 +1528,5 @@ NoConn ~ 9400 4300
 NoConn ~ 9400 4400
 NoConn ~ 9400 4500
 NoConn ~ 7350 6100
+NoConn ~ 3550 6000
 $EndSCHEMATC
