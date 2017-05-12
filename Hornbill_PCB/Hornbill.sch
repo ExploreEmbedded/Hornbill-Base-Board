@@ -1443,25 +1443,10 @@ Text GLabel 5470 4050 1    47   Input ~ 0
 +5V
 Wire Wire Line
 	5470 4110 5470 4050
-Text Label 3550 6000 0    60   ~ 0
-IO5
 Text Label 2450 5700 2    60   ~ 0
+IO5
+Text Label 2450 5800 2    60   ~ 0
 IO23
-$Comp
-L GND #PWR012
-U 1 1 58FDB63D
-P 1950 6000
-F 0 "#PWR012" H 1950 5750 50  0001 C CNN
-F 1 "GND" H 1950 5850 50  0000 C CNN
-F 2 "" H 1950 6000 50  0000 C CNN
-F 3 "" H 1950 6000 50  0000 C CNN
-	1    1950 6000
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1950 6000 1950 5800
-Wire Wire Line
-	1950 5800 2450 5800
 Text Label 2450 5900 2    60   ~ 0
 IO18
 Text Label 2450 6000 2    60   ~ 0
